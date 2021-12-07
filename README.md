@@ -1,4 +1,4 @@
-# markdown
+# Simple rules for creating readme
 
 # Heading1
 ## Heading2
